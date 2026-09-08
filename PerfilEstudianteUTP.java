@@ -1,5 +1,5 @@
 /*
- * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */)
+ * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */
  /** Incluye las etiquetas @author ( Kadir Gonzalez 8-1044-1802 y Kenneth Lau 8-1047-1451) 
  @version 1.0 
  */
