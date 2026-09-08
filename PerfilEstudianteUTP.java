@@ -1,7 +1,6 @@
 /*
  * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */)
- /** Incluye las etiquetas @author ( Kadir Gonzalez 8-1044-1802 y Kenneth Lau 8-1047-1451) y 
-    @version 1.0 
+ /** Incluye las etiquetas @author ( Kadir Gonzalez 8-1044-1802 y Kenneth Lau 8-1047-1451) y @version 1.0 
  */
 public class PerfilEstudianteUTP {
 
@@ -24,7 +23,7 @@ public class PerfilEstudianteUTP {
         boolean estaPazYSalvo = true;
 
         // TODO 2.5: Declara una variable de tipo char con la inicial del segundo nombre
-        char inicialSegundoNombre = 'M'
+        char inicialSegundoNombre = 'M';
         // Nombre de variable: inicialSegundoNombre | Valor de prueba: 'M'
         
 
